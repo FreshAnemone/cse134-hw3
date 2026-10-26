@@ -1,5 +1,3 @@
-# Noah Terrell CSE 134 HW3
-
 | Field | Value |
 | --- | --- |
 | Repository URL | https://github.com/FreshAnemone/cse134-hw3 |
